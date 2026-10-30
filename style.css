@@ -1,0 +1,15 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333333;
+}
+
+/* Memperhalus tampilan gambar pada card proyek */
+.card-img-top {
+    height: 160px;
+    object-fit: cover;
+}
+
+/* Sedikit penyesuaian padding section */
+section {
+    scroll-margin-top: 70px;
+}
